@@ -1,6 +1,6 @@
 ## Hi, my name is Raí 
 
-- 🚀 I'm currently working as a WEBSITE OPERATOR
+- 🚀 I'm currently working as a SITE OPERATOR
 - 👀 I’m interested in get knowledge
 - 🌱 I’m currently learning SQL, Java and Python
 <br>
